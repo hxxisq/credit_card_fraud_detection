@@ -271,7 +271,7 @@ jupyter>=1.0.0
 
 ---
 
-## 📖 Usage
+## Usage
 
 1. **Launch Jupyter Notebook:**
    ```bash
